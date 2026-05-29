@@ -20,7 +20,3 @@ A simple Java OOP mini project for managing books in a library.
 
 * Java
 * ArrayList
-
-## Author
-
-Sasanka Wishwa
